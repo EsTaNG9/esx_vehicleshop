@@ -2,6 +2,7 @@
 # Ill make the script public again in about 2 weeks, sorry for the inconvinience
 
 ESX Vehicle Shop adds an vehicle shop to the game, where employeed players can sell vehicles to other players. You can also disable the job part so any player can buy vehicles with a menu based interaction. Also you cant test the cars before you buy them.
+The Test Drive code was inspired by the one present in [d3x_vehicleshop](https://github.com/Duart3x/d3x_vehicleshop)
 
 ## Requirements
 
@@ -15,8 +16,12 @@ ESX Vehicle Shop adds an vehicle shop to the game, where employeed players can s
   * [esx_addoninventory](https://github.com/ESX-Org/esx_addoninventory)
   * [cron](https://github.com/ESX-Org/cron)
 
-## Download & Installation
+![alt text](https://github.com/EsTaNG9/esx_vehicleshop/blob/master/pics/pic1.png)
 
+![alt text](https://github.com/EsTaNG9/esx_vehicleshop/blob/master/pics/pic2.png)
+
+
+## Download & Installation
 
 ### Using Git
 

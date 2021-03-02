@@ -2,7 +2,9 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Vehicle Shop'
+author 'EsTaNG#4093 & ESX'
+
+description 'ESX Vehicle Shop with the Test Drive feature'
 
 version '1.1.0'
 

@@ -1,11 +1,12 @@
-# esx_vehicleshop
+# esx_vehicleshop with Test Drive feature
+# Ill make the script public again in about 2 weeks, sorry for the inconvinience
 
-ESX Vehicle Shop adds an vehicle shop to the game, where employeed players can sell vehicles to other players. You can also disable the job part so any player can buy vehicles with a menu based interaction.
+ESX Vehicle Shop adds an vehicle shop to the game, where employeed players can sell vehicles to other players. You can also disable the job part so any player can buy vehicles with a menu based interaction. Also you cant test the cars before you buy them.
 
 ## Requirements
 
 * Auto mode (everyone can buy vehicles from the dealer)
-  * No need to download other resources
+  * progressBar
 
 * Player management (the car dealer job): billing, boss actions and more!
   * [esx_society](https://github.com/ESX-Org/esx_society)
@@ -16,22 +17,17 @@ ESX Vehicle Shop adds an vehicle shop to the game, where employeed players can s
 
 ## Download & Installation
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-
-```
-fvm install --save --folder=esx esx-org/esx_vehicleshop
-```
 
 ### Using Git
 
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_vehicleshop [esx]/esx_vehicleshop
+git clone https://github.com/EsTaNG9/esx_vehicleshop [esx]/esx_vehicleshop
 ```
 
 ### Manually
 
-- Download https://github.com/ESX-Org/esx_vehicleshop/archive/master.zip
+- Download https://github.com/EsTaNG9/esx_vehicleshop/archive/master.zip
 - Put it in the `[esx]` directory
 
 ### Installation
